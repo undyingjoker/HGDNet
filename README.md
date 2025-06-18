@@ -26,7 +26,7 @@ and a uniform shallow backbone takes the original high-resolution images as inpu
 </div>
 <div align="right">
 <h3>Comparison of various RL methods</h2>
-<img src="docs/images/GPG.png?_t=202505061400" alt="FPS2" width="50%">
+<img src="docs/FPS2.svg?_t=202505061400" alt="FPS2" width="50%">
 </div>
 <div align="center">
 <h3>Comparison of various RL methods</h2>
