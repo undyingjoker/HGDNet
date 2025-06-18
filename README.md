@@ -11,7 +11,7 @@ Remote Sensing Object Detection</h1>
         <div class="is-size-4 publication-authors">
         </div>
     </div>
-    <a style="font-size: 24px;">📖 IEEE Transactions on Pattern Analysis and Machine Intelligence 2025</a>
+    <h2 align="center">📖 IEEE Transactions on Pattern Analysis and Machine Intelligence 2025</h2>
 </div>
 <div>
     <h3 style="text-align: center;">Abstract</h3>
